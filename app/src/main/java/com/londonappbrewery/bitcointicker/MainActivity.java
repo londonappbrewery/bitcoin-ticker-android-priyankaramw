@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
     // Constants:
     // TODO: Create the base URL
     private final String BASE_URL = "https://apiv2.bitcoin ...";
+    //test
 
     // Member Variables:
     TextView mPriceTextView;
